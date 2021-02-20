@@ -4,7 +4,7 @@
 </div>
 <div align="center">
     <p>You have finally discovered my Github profile. <br><br>
-        Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
+        Please feel free to clone projects and raise issues if you think something could be better.
         <br><br>
         💬 You can view my projects and contact me <a href="https://www.furkankadir.com"><b>here.</b></a></p><br>
     <p><i>Happy Coding!</i>
