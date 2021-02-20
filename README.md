@@ -14,11 +14,7 @@
 </div>
 <div align="center">
     
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkankadirr&show_icons=true&theme=vue-dark&&hide=contribs,prs)
-
-----------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkankadirr&layout=compact)](https://github.com/furkankadirr/github-readme-stats)
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkankadirr&show_icons=true&theme=vue-dark&&hide=contribs,prs)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkankadirr&layout=compact)](https://github.com/furkankadirr/github-readme-stats)
 </div>
 <!--
 **furkankadirr/furkankadirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
