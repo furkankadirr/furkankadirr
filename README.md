@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Furkan.
+--------------------------------
+### Front-End Developer from Turkey
 
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkankadirr&show_icons=true&theme=radical)
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkankadirr&show_icons=true&theme=vue-dark&hide_rank=false)     
+-------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkankadirr&layout=compact)](https://github.com/furkankadirr/github-readme-stats)
 
 <!--
 **furkankadirr/furkankadirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
